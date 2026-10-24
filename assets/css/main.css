@@ -817,7 +817,7 @@ section,
   position: relative;
   overflow: hidden;
   background-color: var(--brand-green);
-  background-image: url('../../../bg.jpg');
+  background-image: url('../img/bg.jpg');
   background-size: cover;
   background-position: center;
   
